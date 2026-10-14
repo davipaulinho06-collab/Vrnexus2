@@ -1,0 +1,6 @@
+NEXUS VR - Etapa 1 (fundacao)
+1. Suba TODOS estes arquivos para um repositorio no GitHub (mantendo as pastas).
+2. Aba Actions -> "Build APK" -> Run workflow.
+3. Quando terminar, abra a execucao e baixe "NexusVR-apk" (Artifacts). Dentro esta o app-debug.apk.
+4. Instale (permita "fontes desconhecidas").
+Controles: toque no centro = recentrar | laterais = campo de visao | volume +/- = distancia entre lentes.
